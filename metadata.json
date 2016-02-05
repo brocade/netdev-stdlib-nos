@@ -1,0 +1,25 @@
+{
+  "name": "brocade-netdev_stdlib_nos",
+  "version": "1.0.0",
+  "author": "Brocade Communications Systems Inc",
+  "summary": "Provider and Type definition (based on netdev_stdlib) for Brocade VDX devices",
+  "license": "See LICENSE file",
+  "source": "https://github.com/brocade/netdev-stdlib-nos.git",
+  "project_page": "https://github.com/brocade/netdev-stdlib-nos",
+  "issues_url": null,
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem":"NOS",
+      "operatingsystem":[
+        "6.0.x",
+        "7.x"
+      ]
+    }
+
+  ],
+  "tags": ["network", "netdev", "brocade", "nos"]
+}
+
